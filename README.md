@@ -14,7 +14,7 @@ Necesaria la instalación de Python y MySQL para las versiones mencionadas.
 
 ![Editor de recetas](https://i23.servimg.com/u/f23/11/92/85/94/captur10.png)
 
-![Lector de recetas](https://i23.servimg.com/u/f23/11/92/85/94/captur12.png)
+![Lector de recetas](https://i23.servimg.com/u/f23/11/92/85/94/captur14.png))
 
 ![índice de recetas y búsqueda ](https://i23.servimg.com/u/f23/11/92/85/94/captur13.png)
 
