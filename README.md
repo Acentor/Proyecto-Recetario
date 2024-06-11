@@ -23,4 +23,4 @@ Necesaria la instalación de Python y MySQL para las versiones mencionadas.
 # Requisitos del Proyecto
 
 
-![Requisitos](https://raw.githubusercontent.com/Acentor/Proyecto-Recetario/main/Recetario%201%20version%20con%20csv%20local/Requisitos.jpg?token=GHSAT0AAAAAACTEL37GBWPRYXF26DFUDOT2ZTH2VZA)
+![Requisitos](https://i23.servimg.com/u/f23/11/92/85/94/requis10.jpg))
